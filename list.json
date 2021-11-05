@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Vi",
+        "accion": "Pega peñetasos",
+        "descripcion": "Es mi waifu",
+        "num": 1
+    },
+    {
+        "nombre": "Kha'zix",
+        "accion": "Araña con sus sarpitas",
+        "descripcion": "Es una mantis",
+        "num": 2
+    },
+    {
+        "nombre": "Vayne",
+        "accion": "Tira flechillas con su ballesta",
+        "descripcion": "Es una cazavampiros",
+        "num": 3
+    },
+    {
+        "nombre": "Nunu y Willump",
+        "accion": "Dan bolasos de cocaína",
+        "descripcion": "Son amiwis",
+        "num": 4
+    }
+]
